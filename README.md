@@ -43,7 +43,7 @@ The following R packages are required for the analysis and script:
 
 ## How to Run
 1. running from R or R studio
-   All you need to do is to find `Line 26`: `path <- "Z:\Lab data\name\date genotype VMR\color Plate"` and input your directory path here. After that, run the script and the result plots will be generated in the same directory
+   All you need to do is to find `Line 59`: `path <- "Z:\Lab data\name\date genotype VMR\color Plate"` and input your directory path here. After that, run the script and the result plots will be generated in the same directory
 2. To run the script in command prompt
 - Put "main.R" file in the same folder where the VMR result file "xxxxxxxx color plate result.xls" file is located
 - Open the Windows command prompt by type "command prompt" in the search bar
