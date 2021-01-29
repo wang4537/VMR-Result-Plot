@@ -56,7 +56,7 @@ library(plyr)
 
 #set the working directory where the result file is located
 # for example Z:\Lab data\name\date genotype VMR\color Plate
-path <- "C:/Purdue_related/research/data_analysis/result/20210126 WT Q344X"
+path <- "Z:\Lab data\name\date genotype VMR\color Plate"
 setwd(path)
 #read the result file within the directory
 result_file_names <- list.files(path = path, pattern = "\\Result.XLS$", ignore.case = TRUE)
